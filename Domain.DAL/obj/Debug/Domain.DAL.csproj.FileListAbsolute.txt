@@ -1,0 +1,14 @@
+C:\wip\code\StartUpsln\Domain.DAL\bin\Debug\Domain.DAL.dll.config
+C:\wip\code\StartUpsln\Domain.DAL\bin\Debug\Domain.DAL.dll
+C:\wip\code\StartUpsln\Domain.DAL\bin\Debug\Domain.DAL.pdb
+C:\wip\code\StartUpsln\Domain.DAL\bin\Debug\Domain.Entities.dll
+C:\wip\code\StartUpsln\Domain.DAL\bin\Debug\EntityFramework.dll
+C:\wip\code\StartUpsln\Domain.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\wip\code\StartUpsln\Domain.DAL\bin\Debug\Domain.Entities.pdb
+C:\wip\code\StartUpsln\Domain.DAL\bin\Debug\EntityFramework.xml
+C:\wip\code\StartUpsln\Domain.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\wip\code\StartUpsln\Domain.DAL\obj\Debug\Domain.DAL.csprojResolveAssemblyReference.cache
+C:\wip\code\StartUpsln\Domain.DAL\obj\Debug\Domain.DAL.Migrations.myinitMigrationfordb.resources
+C:\wip\code\StartUpsln\Domain.DAL\obj\Debug\Domain.DAL.csproj.GenerateResource.Cache
+C:\wip\code\StartUpsln\Domain.DAL\obj\Debug\Domain.DAL.dll
+C:\wip\code\StartUpsln\Domain.DAL\obj\Debug\Domain.DAL.pdb

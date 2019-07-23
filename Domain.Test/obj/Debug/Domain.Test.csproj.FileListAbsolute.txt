@@ -1,0 +1,14 @@
+C:\wip\code\StartUpsln\Domain.Test\bin\Debug\Domain.Test.exe.config
+C:\wip\code\StartUpsln\Domain.Test\bin\Debug\Domain.Test.exe
+C:\wip\code\StartUpsln\Domain.Test\bin\Debug\Domain.Test.pdb
+C:\wip\code\StartUpsln\Domain.Test\bin\Debug\Domain.DAL.dll
+C:\wip\code\StartUpsln\Domain.Test\bin\Debug\Domain.Entities.dll
+C:\wip\code\StartUpsln\Domain.Test\bin\Debug\EntityFramework.dll
+C:\wip\code\StartUpsln\Domain.Test\bin\Debug\Domain.DAL.pdb
+C:\wip\code\StartUpsln\Domain.Test\bin\Debug\Domain.Entities.pdb
+C:\wip\code\StartUpsln\Domain.Test\bin\Debug\EntityFramework.xml
+C:\wip\code\StartUpsln\Domain.Test\obj\Debug\Domain.Test.csprojResolveAssemblyReference.cache
+C:\wip\code\StartUpsln\Domain.Test\obj\Debug\Domain.Test.exe
+C:\wip\code\StartUpsln\Domain.Test\obj\Debug\Domain.Test.pdb
+C:\wip\code\StartUpsln\Domain.Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\wip\code\StartUpsln\Domain.Test\bin\Debug\EntityFramework.SqlServer.xml
